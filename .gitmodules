@@ -1,4 +1,3 @@
 [submodule "pages/angular-sms-button"]
 	path = pages/angular-sms-button
 	url = https://github.com/laohyx/angular-sms-button.git
-
